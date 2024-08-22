@@ -6,4 +6,4 @@
 #keking/kkfileview:v2.2.2.1
 #platform=linux/arm64 xiaoyaliu/alist
 # 镜像
-648540858/wvp_pro:latest
+mysql:8.4.2
