@@ -6,4 +6,6 @@
 #keking/kkfileview:v2.2.2.1
 #platform=linux/arm64 xiaoyaliu/alist
 # 镜像
-influxdb:1.8
+#influxdb:1.8
+openjdk:8u222-slim
+
