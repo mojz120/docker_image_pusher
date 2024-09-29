@@ -7,5 +7,6 @@
 #platform=linux/arm64 xiaoyaliu/alist
 # 镜像
 #influxdb:1.8
-openjdk:8u222-slim
-
+#openjdk:8u222-slim
+portainer/agent:2.11.1
+portainer/portainer-ce:2.11.1
