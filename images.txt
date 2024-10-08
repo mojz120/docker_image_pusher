@@ -12,4 +12,4 @@
 #portainer/portainer-ce:2.11.1
 #emqx/emqx:4.4.19
 #openjdk:11.0.14.1-jdk-buster
-nginx:stable
+node:17.8-buster
