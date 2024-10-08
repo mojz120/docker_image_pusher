@@ -11,4 +11,5 @@
 #portainer/agent:2.11.1
 #portainer/portainer-ce:2.11.1
 #emqx/emqx:4.4.19
-openjdk:11.0.14.1-jdk-buster
+#openjdk:11.0.14.1-jdk-buster
+nginx:stable
