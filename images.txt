@@ -13,4 +13,5 @@
 #emqx/emqx:4.4.19
 #openjdk:11.0.14.1-jdk-buster
 #node:17.8-buster
-kartoza/postgis:15-3.4
+#kartoza/postgis:15-3.4
+nodered/node-red:latest
