@@ -15,4 +15,5 @@
 #node:17.8-buster
 #kartoza/postgis:15-3.4
 #nodered/node-red:latest
-anapsix/alpine-java:8_server-jre_unlimited 
+#anapsix/alpine-java:8_server-jre_unlimited 
+nacos/nacos-server:v2.2.3
