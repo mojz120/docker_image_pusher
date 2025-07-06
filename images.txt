@@ -18,4 +18,5 @@
 #anapsix/alpine-java:8_server-jre_unlimited 
 #nacos/nacos-server:v2.2.3
 #kartoza/geoserver:2.27.0
-star7th/showdoc:v3.4.1
+#star7th/showdoc:v3.4.1
+emqx/emqx:v4.0.3
