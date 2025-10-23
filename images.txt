@@ -21,4 +21,5 @@
 #star7th/showdoc:v3.4.1
 #emqx/emqx:v4.0.3
 #droit/jre17:v5.0.0
-fauria/vsftpd:latest
+#fauria/vsftpd:latest
+nextcloud:27.1
