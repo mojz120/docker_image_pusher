@@ -23,4 +23,5 @@
 #droit/jre17:v5.0.0
 #fauria/vsftpd:latest
 #nextcloud:27.1
-influxdb:2.7
+#influxdb:2.7
+mongodb/mongodb-community-server:7.0-ubi9
