@@ -22,4 +22,5 @@
 #emqx/emqx:v4.0.3
 #droit/jre17:v5.0.0
 #fauria/vsftpd:latest
-nextcloud:27.1
+#nextcloud:27.1
+influxdb:2.7
