@@ -25,4 +25,5 @@
 #nextcloud:27.1
 #influxdb:2.7
 #mongodb/mongodb-community-server:7.0-ubi9
-mongo:latest
+#mongo:latest
+openjdk:8-jre
