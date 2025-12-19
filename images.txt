@@ -26,4 +26,5 @@
 #influxdb:2.7
 #mongodb/mongodb-community-server:7.0-ubi9
 #mongo:latest
-openjdk:8-jre
+#openjdk:8-jre
+atmoz/sftp:latest
